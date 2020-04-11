@@ -1,1 +1,2 @@
-# GitSample
+# GitSample 
+This is just sample 
